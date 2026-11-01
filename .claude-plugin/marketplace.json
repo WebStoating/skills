@@ -7,5 +7,16 @@
   "metadata": {
     "description": "Plugin marketplace for Claude Code and Codex: WebStoating's agent skills."
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "software-project-audit",
+      "description": "Risk-based, evidence-driven audit of Python and JS/TS projects with pinned Docker scanners and a validated report.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/WebStoating/software-project-audit.git",
+        "path": "software-project-audit",
+        "ref": "main"
+      }
+    }
+  ]
 }

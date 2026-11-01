@@ -39,7 +39,7 @@ codex plugin marketplace upgrade webstoating-skills
 
 | Plugin | Repository | What it does |
 |---|---|---|
-| _none yet_ | | |
+| `software-project-audit` | [WebStoating/software-project-audit](https://github.com/WebStoating/software-project-audit) | Risk-based, evidence-driven audit of Python and JS/TS projects (OWASP Top 10, CWE Top 25) with pinned Docker scanners and a validated report. Claude Code: `/software-project-audit:audit`. |
 
 ## Adding a plugin
 
