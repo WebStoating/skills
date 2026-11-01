@@ -1,0 +1,11 @@
+{
+  "name": "webstoating-skills",
+  "owner": {
+    "name": "WebStoating",
+    "url": "https://github.com/WebStoating"
+  },
+  "metadata": {
+    "description": "Plugin marketplace for Claude Code and Codex: WebStoating's agent skills."
+  },
+  "plugins": []
+}
