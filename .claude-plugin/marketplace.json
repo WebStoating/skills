@@ -17,6 +17,16 @@
         "path": "software-project-audit",
         "ref": "main"
       }
+    },
+    {
+      "name": "code-safety-review",
+      "description": "Static safety review of an untrusted repository (malware, supply chain, prompt injection) before you open, install or run it.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/WebStoating/code-safety-review.git",
+        "path": "code-safety-review",
+        "ref": "main"
+      }
     }
   ]
 }
