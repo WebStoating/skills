@@ -27,6 +27,16 @@
         "path": "code-safety-review",
         "ref": "main"
       }
+    },
+    {
+      "name": "agile",
+      "description": "Agile project-management skills; video-to-spec turns a narrated presentation video into SPECIFICATION.md for a coding agent.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/WebStoating/agile.git",
+        "path": "agile",
+        "ref": "main"
+      }
     }
   ]
 }
