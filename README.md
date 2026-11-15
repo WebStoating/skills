@@ -41,6 +41,7 @@ codex plugin marketplace upgrade webstoating-skills
 |---|---|---|
 | `software-project-audit` | [WebStoating/software-project-audit](https://github.com/WebStoating/software-project-audit) | Risk-based, evidence-driven audit of Python and JS/TS projects (OWASP Top 10, CWE Top 25) with pinned Docker scanners and a validated report. Claude Code: `/software-project-audit:audit`. |
 | `code-safety-review` | [WebStoating/code-safety-review](https://github.com/WebStoating/code-safety-review) | Static safety review of an untrusted repository before you open, install or run it: auto-run IDE tasks, install hooks, hidden payloads, malicious dependencies, git abuse, prompt injection. Verdict plus report; nothing is executed. Claude Code: `/code-safety-review:review`. |
+| `agile` | [WebStoating/agile](https://github.com/WebStoating/agile) | Agile project-management skills. `video-to-spec` turns a narrated presentation video into `SPECIFICATION.md` (transcript, one frame per slide, traceable requirements, acceptance criteria, open questions); needs ffmpeg and openai-whisper. Claude Code: `/agile:video-to-spec`. |
 
 ## Adding a plugin
 
